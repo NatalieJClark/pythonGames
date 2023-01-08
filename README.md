@@ -5,6 +5,6 @@ A selection of games made whilst exploring Python.
 ## GAMES MADE
 - Coin Flip
 - Rock Paper Scissors
-- Almost Roulette!
+- Not Quite Roulette!
 - Lottery
-- Another lottery
+- Lottery 2.0
