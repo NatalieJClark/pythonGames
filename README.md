@@ -1,6 +1,6 @@
 # Python Games
 
-A selection of games made whilst exploring Python.
+A selection of games, made whilst exploring Python.
 
 ## GAMES MADE
 - Coin Flip
